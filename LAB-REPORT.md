@@ -1,6 +1,5 @@
 # Lab report: AD Onboarding & Offboarding Automation
 
-**Date:** 29 October 2026
 **Environment:** Windows Server VM `HOTEL-DC01`, domain `hotel.local` (my home lab)
 **Tools:** PowerShell, Active Directory module, Active Directory Users and Computers
 
